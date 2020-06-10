@@ -1,0 +1,20 @@
+.divPai{
+    display: flex;
+    flex-direction: row;
+    height: 500;
+    width: 500;
+    background-color: black;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.divFilho{
+    height: 60;
+    width: 50;
+    background-color: blueviolet;
+    margin: 5;
+    padding: 15;
+    border-width: 10;
+    border-style: solid;
+    border-radius: 50;
+}
